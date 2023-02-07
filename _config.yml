@@ -49,11 +49,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Blog
     url:               /example/
-  - title:             Documentation
+  - title:             Documentos
     url:               /docs/
-  - title:             About
+  - title:             Vozes
+    url:               /voices/
+  - title:             Sobre
     url:               /about/
 
 # Add links to the footer.
