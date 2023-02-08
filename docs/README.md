@@ -8,14 +8,13 @@ hide_description: true
 permalink: /docs/
 ---
 
-Esta é uma página que está em construção
+0. Esta é uma página que está em construção
 {:.note}
 
 0. tentando fazer o toc
 {:toc}
 
 ## Criando o seu corpus de canto
-{:toc}
 * WIP
 {:.related-posts.faded}
 
