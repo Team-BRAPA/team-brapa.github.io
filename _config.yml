@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /example/
+    url:               /blog/
   - title:             Documentos
     url:               /docs/
   - title:             Vozes
