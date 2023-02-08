@@ -12,17 +12,16 @@ Esta é uma página que está em construção
 {:.note}
 
 
-* ## Criando o seu corpus de canto
-{:toc}
+## Criando o seu corpus de canto
 * WIP
 {:.related-posts.faded}
 
-* ## Treinando um modelo NNSVS
-{:toc}
+## Treinando um modelo NNSVS
 * WIP
 {:.related-posts.faded}
 
-* ## Treinando um modelo DiffSinger
-{:toc}
+## Treinando um modelo DiffSinger
 * WIP
 {:.related-posts.faded}
+
+{:toc}
