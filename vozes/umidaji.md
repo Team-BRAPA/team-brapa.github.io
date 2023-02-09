@@ -8,6 +8,9 @@ hide_description: true
 permalink: /umidaji/
 ---
 
-[![](/assets/vozes/umi.png)]
-{:style="float: left"}
-Some text.
+ssssssssssssssssssssssssssssssssssssssssssss
+<img align="rigth" src="/assets/vozes/umi.png" alt="My Image" width="200" height="350">
+
+
+atumalaca
+
