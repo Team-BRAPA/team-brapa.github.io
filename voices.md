@@ -23,3 +23,4 @@ Esta é uma página que está em construção
 * WIP
 {:.related-posts.faded}
 ![Full-width image](/assets/img/Matiz_Banner.jpg){:.lead width="800" height="100" loading="lazy"}
+  url:     https://github.com/poole/hyde
