@@ -15,8 +15,7 @@ Esta é uma página que está em construção
 [![](assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
 
 ## Reo
-* WIP
-{:.related-posts.faded}
+[![](assets/img/Reo_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
 
 ## Alex
 [![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
