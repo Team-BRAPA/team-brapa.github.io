@@ -12,10 +12,10 @@ Esta é uma página que está em construção
 
 
 ## Umidaji
-[![](assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
+[![](assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/umidaji/)
 
 ## Reo
-[![](assets/img/Reo_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
+[![](assets/img/Reo_Banner.jpg)](https://team-brapa.github.io/blog/reo)
 
 ## Alex
-[![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
+[![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/blog/alex/)
