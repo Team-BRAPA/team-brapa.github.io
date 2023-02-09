@@ -12,8 +12,7 @@ Esta é uma página que está em construção
 
 
 ## Umidaji
-* WIP
-{:.related-posts.faded}
+[![](assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
 
 ## Reo
 * WIP
