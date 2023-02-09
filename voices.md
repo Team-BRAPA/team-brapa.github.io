@@ -22,3 +22,4 @@ Esta é uma página que está em construção
 ## Alex
 * WIP
 {:.related-posts.faded}
+![Full-width image](/assets/img/Matiz_Banner.jpg){:.lead width="800" height="100" loading="lazy"}
