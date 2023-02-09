@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: page
 title: Vozes
 description: >
   Todas as vozes que trabalhamos.
