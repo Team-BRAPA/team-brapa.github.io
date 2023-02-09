@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 ---
 
-Esta é uma página que está em construção
+Esta é uma página que está em construção.
 {:.note}
 
 
