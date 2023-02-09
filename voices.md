@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vozes
+title: Vozes BRAPA
 description: >
   Todas as vozes que trabalhamos.
 hide_description: true
