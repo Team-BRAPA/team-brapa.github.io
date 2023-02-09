@@ -20,7 +20,4 @@ Esta é uma página que está em construção
 {:.related-posts.faded}
 
 ## Alex
-* WIP
-{:.related-posts.faded}
-![Full-width image](/assets/img/Matiz_Banner.jpg){:.lead width="800" height="100" loading="lazy"}
-  url:     https://github.com/poole/hyde
+[![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/blog/2023-02-06-test-post/)
