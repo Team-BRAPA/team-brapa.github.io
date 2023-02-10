@@ -5,6 +5,7 @@ description: >
   Informações e download da voz Umidaji
 sitemap: false
 hide_description: true
+
 ---
 
 <img align="right" src="/assets/vozes/umidaji/umidaji.png" alt="Umidaji full body" width="200" height="350">
@@ -13,9 +14,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
-- **Voicer**: HAI-D
+- **Voicer**: Patiu
 - **Alcance**: C3 ~ C5
-- **Design**: patiu
+- **Design**: Patiu
 
 
 # Bancos de Voz
