@@ -7,8 +7,6 @@ sitemap: false
 hide_description: true
 ---
 
-# Alex Yag
-
 ![](/assets/vozes/alex/alex.png "Alex Yag full body"){:.lead width="200" height="350"}
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
