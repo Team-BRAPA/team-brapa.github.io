@@ -122,8 +122,6 @@ defaults:
       accent_color:    rgb(255,255,255)
       theme_color:     rgb(32,32,32)
       accent_image:    /assets/vozes/alex/alex_bg.png
-        background:    rgb(32,32,32)
-        overlay:       true
 
   # Don't include documents in assets in the sitemap
   - scope:
