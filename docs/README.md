@@ -15,7 +15,7 @@ permalink: /docs/
 {:toc}
 
 ## Criando o seu corpus de canto
-* WIP
+* Como gravar?, Tratando a Gravação, Label, Midi, Finalização.
 {:.related-posts.faded}
 
 ## Treinando um modelo NNSVS
