@@ -18,4 +18,4 @@ Esta é uma página que está em construção.
 [![](assets/img/Reo_Banner.jpg)](https://team-brapa.github.io/blog/reo)
 
 ## Alex
-[![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/blog/alex/)
+[![](assets/img/Matiz_Banner.jpg)](https://team-brapa.github.io/vozes/alex/)
