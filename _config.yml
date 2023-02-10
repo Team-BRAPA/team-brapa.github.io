@@ -117,7 +117,7 @@ defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
   - scope:
-      path:            vozes/alex/
+      path:            /vozes/alex/
     values:
       accent_color:    rgb(255,255,255)
       theme_color:     rgb(32,32,32)
