@@ -121,7 +121,7 @@ defaults:
     values:
       accent_color:    rgb(255,255,255)
       theme_color:     rgb(32,32,32)
-      accent_image:    /assets/img/alex/alex_bg.png
+      accent_image:    
         background:    rgb(32,32,32)
         overlay:       false
 
