@@ -123,7 +123,7 @@ defaults:
       theme_color:     rgb(0,0,0)
       accent_image:
         background:    rgb(0,0,0)
-        overlay:       false
+        overlay:       true
       
 
   # Don't include documents in assets in the sitemap
