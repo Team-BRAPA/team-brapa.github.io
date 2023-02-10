@@ -12,7 +12,7 @@ Esta é uma página que está em construção.
 
 
 ## Umidaji
-[![](../assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/umidaji/)
+[![](../assets/img/Umidaji_Banner.jpg)](https://team-brapa.github.io/vozes//umidaji/)
 
 ## Reo
 [![](../assets/img/Reo_Banner.jpg)](https://team-brapa.github.io/blog/reo)
